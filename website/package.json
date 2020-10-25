@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-alpha.65",
-    "@docusaurus/preset-classic": "2.0.0-alpha.65",
+    "@docusaurus/preset-classic": "2.0.0-alpha.66",
     "classnames": "2.2.6",
     "react": "16.13.1",
     "react-dom": "16.13.1"
@@ -29,6 +29,6 @@
     ]
   },
   "devDependencies": {
-    "raw-loader": "4.0.1"
+    "raw-loader": "4.0.2"
   }
 }
